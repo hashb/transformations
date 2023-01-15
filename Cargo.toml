@@ -1,0 +1,16 @@
+[package]
+name = "transformations"
+version = "0.0.1"
+edition = "2021"
+readme = "readme.md"
+description = "Homogeneous Transformation Matrices and Quaternions"
+
+homepage = "https://github.com/hashb/transformations"
+repository = "https://github.com/hashb/transformations"
+documentation = "https://docs.rs/transformations"
+
+license-file = "LICENSE"
+categories = ["graphics", "computer-vision", "science::robotics"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
